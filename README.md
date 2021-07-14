@@ -1,4 +1,6 @@
-# StriveUtils
+# StriveHUD
+
+ProgressBar to show wallbreak meter
 
 Original StriveUtils: https://github.com/argoneuscze/StriveUtils
 
